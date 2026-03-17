@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Kevin 👋 
 
-I'm Kevin, a undergraduate student from Telkom University Bandung in Indonesia
+![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50)
 
-I design and code. (thats for a while, I'm still looking for some words here... :3 )
+### 🚀 About Me
+- 🎓 Undergraduate student at Telkom University
+- 💻 Currently focusing on **Fullstack Development** (Spring Boot & React)
+- 🏎️ Automotive enthusiast with a love for drifting setups.
+
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,spring,java,go,cpp,mysql,github)
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kep1nZip&show_icons=true&theme=tokyonight" alt="Kevin's stats" />
+</p>
