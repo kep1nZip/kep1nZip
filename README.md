@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin 👋 
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50)
+![Header](github-banner-kep1nzip.png)
 
 ### 🚀 About Me
 - 🎓 Undergraduate student at Telkom University
