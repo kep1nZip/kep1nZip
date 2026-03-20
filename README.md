@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 🎓 Undergraduate student at Telkom University
-- 💻 Currently focusing on **Fullstack Development** (Spring Boot & React)
+- 💻 Currently focusing on **Fullstack Development** and **UI/UX Designer** (Spring Boot & React)
 - 🏎️ Automotive enthusiast with a love for drifting setups.
 
 ### 🛠 Tech Stack
