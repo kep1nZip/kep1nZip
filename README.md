@@ -14,3 +14,7 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=kep1nZip&show_icons=true&theme=tokyonight" alt="Kevin's stats" />
 </p>
+
+### just add-ons gif hehe
+<img src="<img width="220" height="124" alt="image" src="https://github.com/user-attachments/assets/e50cb6b8-3077-45d8-814d-849e0a893b7d" />
+"></img>
