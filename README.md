@@ -6,6 +6,7 @@
 - 🎓 Undergraduate student at Telkom University
 - 💻 Currently focusing on **Fullstack Development** and **UI/UX Designer** (Spring Boot & React)
 - 🏎️ Automotive enthusiast with a love for drifting setups.
+- 💹 Trading enthusiast (Cryptos and Counter-Strike Items)
 
 ### 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,spring,java,go,cpp,mysql,github)
