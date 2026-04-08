@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kep1nZip&show_icons=true&theme=rose" alt="Kevin's stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kep1nZip&layout=compact&theme=rose" alt="Top Langs" height="150" />
 </p>
+error lol? ill fix it later i guess xD
 
 ### 📈 Contribution Streak
 <p align="left">
