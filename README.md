@@ -86,9 +86,9 @@ public class Kevin {
 <div align="center">
 
 <a href="https://github.com/kep1nZip"><img src="https://img.shields.io/badge/GitHub-9F1239?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-F43F5E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-FB7185?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-FDA4AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/johanes-kevin-agustahadi-0362a733a/"><img src="https://img.shields.io/badge/LinkedIn-F43F5E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/kep1n.zip/"><img src="https://img.shields.io/badge/Instagram-FB7185?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:johaneskevina@gmail.com"><img src="https://img.shields.io/badge/Email-FDA4AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
