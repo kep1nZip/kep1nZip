@@ -62,7 +62,7 @@ public class Kevin {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (sadly it won't shows up (9/19/2026))
 
 <div align="center">
 
