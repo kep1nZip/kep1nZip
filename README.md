@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (currently error, i'll fix it later lol)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kep1nZip&show_icons=true&theme=rose" alt="Kevin's stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kep1nZip&layout=compact&theme=rose" alt="Top Langs" height="150" />
