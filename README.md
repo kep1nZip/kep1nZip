@@ -96,6 +96,6 @@ public class Kevin {
 
 <br/><br/>
 
-<sub>🌹 <i>"Slow is smooth, smooth is fast."</i></sub>
+<sub>🌹 <i>"rather be a quiet success than a loud illusion."</i></sub>
 
 </div>
