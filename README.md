@@ -34,7 +34,7 @@ public class Kevin {
 
 - 🎓 &nbsp;Undergraduate student at **Telkom University**
 - 💻 &nbsp;Focusing on **UI/UX Design** and **Fullstack Development** — *Spring Boot & React*
-- 🏎️ &nbsp;Automotive enthusiast with a love for **drifting setups**
+- 🏎️ &nbsp;Automotive enthusiast especially for **drift and rally scenes**
 - 💹 &nbsp;Trading enthusiast — **crypto** and **Counter-Strike items**
 - 🎯 &nbsp;Currently leveling up on clean architecture & design systems
 
