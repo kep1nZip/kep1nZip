@@ -56,7 +56,7 @@ public class Kevin {
 
 **Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=github,git,figma,idea,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,git,figma,postman,vscode&theme=dark" />
 
 </div>
 
